@@ -1,6 +1,6 @@
-streamlit
-langchain
-langchain_experimental
-langchain_openai
-dotenv
+streamlit==1.30.0
+langchain==0.1.15
+langchain-experimental==0.0.57
+langchain-openai==0.1.2
+python-dotenv==1.0.1
 os
